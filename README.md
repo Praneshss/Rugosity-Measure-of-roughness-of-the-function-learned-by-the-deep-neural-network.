@@ -30,7 +30,7 @@ Please refer to repo [https://github.com/RandallBalestriero/Hessian](https://git
 
 
 ## Acknowledgement
-Thanks to Randall and Daniel for helping during implementation.
+Thanks to Randall and Daniel for assisting during implementation.
 
 
 
