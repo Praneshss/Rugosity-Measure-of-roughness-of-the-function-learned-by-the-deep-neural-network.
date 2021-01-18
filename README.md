@@ -14,6 +14,15 @@ Rugosity
 ├── mnist_rugosity.py
 ```
 
+##  Analysis
+We analyse the impact on rugosity measure against
+1. validation accuracy
+2.  different initializations
+
+This analysis code is located in folder ```analysis```
+
+
+
 ##  Using rugosity for regularization
 Please refer to repo [https://github.com/RandallBalestriero/Hessian](https://github.com/RandallBalestriero/Hessian) for rugosity based regularization.
 
