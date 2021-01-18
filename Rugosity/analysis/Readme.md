@@ -1,3 +1,5 @@
-## This folder contains the analysis of rugosity measure w.r.t
-1. validation Accuracy
-2. Different Initializations
+# This folder contains the analysis of rugosity measure
+
+We analyse the impact on rugosity measure against
+1. Validation accuracy
+2. Different initializations
